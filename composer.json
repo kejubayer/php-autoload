@@ -1,0 +1,16 @@
+{
+    "name": "root/class",
+    "authors": [
+        {
+            "name": "jubayer",
+            "email": "khondokereftakharjubayer@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "App\\": "App/"
+        
+        }
+    }
+}
